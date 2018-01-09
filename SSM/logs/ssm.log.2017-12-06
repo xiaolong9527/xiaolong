@@ -1,0 +1,2 @@
+[WARN] [2017-12-06 10:34:07][net.sf.ehcache.config.CacheConfiguration]Configuration problem for cache sampleCache1: MaxEntriesLocalHeap equal or greater than MaxEntriesLocalDisk. This will result in useless disk storage.
+[WARN] [2017-12-06 10:36:12][net.sf.ehcache.config.CacheConfiguration]Configuration problem for cache sampleCache1: MaxEntriesLocalHeap equal or greater than MaxEntriesLocalDisk. This will result in useless disk storage.
